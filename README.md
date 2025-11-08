@@ -6,8 +6,7 @@ Built for surveyors, navigators, geocachers, and anyone working with geographic 
 ---
 
 ## 🚀 Live Demo
-🔗 [View Project on GitHub Pages](https://your-username.github.io/azimuth-calculator/)  
-*(Replace `your-username` with your GitHub ID after hosting)*
+🔗 [View Project on GitHub Pages](https://sazid010188.github.io/Azimuth-Calculator-Microwave-Link-/)
 
 ---
 
